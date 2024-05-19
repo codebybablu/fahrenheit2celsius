@@ -1,3 +1,5 @@
+// for javascript
+ 
 let c = document.getElementById('cel');
 let f = document.getElementById('far');
 
